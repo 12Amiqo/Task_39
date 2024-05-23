@@ -1,0 +1,14 @@
+{
+    "name": "Amil",
+    "version": "1.0.0",
+    "author": "Mammadov",
+    "server": {
+      "port": "2024",
+      "port2": "2025"
+    },
+    "openInBrowser": true,
+      "dist": {
+        "fonts": "Montserrat",
+        "img": "icon.png"
+      }
+    }
